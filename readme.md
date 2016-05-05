@@ -27,4 +27,4 @@ angular
 Thats it! The element will be ``disabled="disabled"`` while requests are pending
 
 [notify-icon]: https://nodei.co/npm/angular-disable-inflight.png?downloads=true
-[notify-url]: https://npmjs.org/package/angular-notify
+[notify-url]: https://npmjs.org/package/angular-disable-inflight
