@@ -1,6 +1,6 @@
 {
   "name": "angular-disable-inflight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular directive for disabling elements while requests are in flight",
   "main": "index.js",
   "repository": {
