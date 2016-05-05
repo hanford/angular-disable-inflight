@@ -5,15 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hanford/angular-disbale-inflight.git"
+    "url": "https://github.com/hanford/angular-disable-inflight.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hanford/angular-disbale-inflight/issues"
+    "url": "https://github.com/hanford/angular-disable-inflight/issues"
   },
   "keywords": [
     "angular",
-    "disbale",
+    "disable",
     "http",
     "detect http",
     "disable while request"
