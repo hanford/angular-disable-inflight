@@ -1,0 +1,34 @@
+{
+  "name": "angular-disable-inflight",
+  "version": "1.0.0",
+  "description": "Angular directive for disabling elements while requests are in flight",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanford/angular-disbale-inflight.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanford/angular-disbale-inflight/issues"
+  },
+  "keywords": [
+    "angular",
+    "disbale",
+    "http",
+    "detect http",
+    "disable while request"
+  ],
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://www.jackhanford.com/)",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "~1.5.5",
+    "assert-semver-operator": "~1.0.1"
+  },
+  "scripts": {
+    "test": "standard && assert-operator ./ '~'",
+    "build": "browserify index.js > ./dist/built.js"
+  },
+  "peerDependencies": {
+    "angular": ">=1.3 <2"
+  }
+}
